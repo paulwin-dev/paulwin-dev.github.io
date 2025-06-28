@@ -289,6 +289,10 @@
 }
 
 @media screen and (max-width: 480px){
+    .page {
+        width: 90%;
+    }
+
     .page-scale {
         width: 80%;
     }
