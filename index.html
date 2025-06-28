@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paul Winterberg - Fullstack Developer</title>
+
+    <link rel="stylesheet" href="/public/css/global.css">
+    <link rel="stylesheet" href="/public/css/index.css">
+
+    <link rel="icon" type="image/x-icon" href="/public/assets/favicon.ico">
+</head>
+
+<body>
+    <div id="page-body">
+        <div id="content">
+            <div id="home">
+                <div id="home-header-container">
+                    <div id="header-location-box">
+                        <img src="/public/assets/icons/location.png" alt="">
+                        <p>GERMANY</p>
+                    </div>
+                    <div id="home-header-main" class="page-scale">
+                        <h1>Building Unified Experiences</h1>
+                        <h2>Web, Mobile, and Game Development</h2>
+                    </div>
+                    <div id="home-contact-items">
+                        <a href="mailto:thepaul.winterberg@gmail.com" target="_blank">
+                            <div class="home-contact-item">
+                                <img src="/public/assets/icons/mail.png" alt="">
+                            </div>
+                        </a>
+
+                        <a href="https://github.com/paulwin-dev" target="_blank">
+                            <div class="home-contact-item">
+                                <img src="/public/assets/icons/github.png" alt="">
+                            </div>
+                        </a>
+
+                        <a href="/public/assets/CV.pdf" target="_blank">
+                            <div class="home-contact-item">
+                                <img src="/public/assets/icons/resume.png" alt="">
+                            </div>
+                        </a>
+                    </div>
+                    <p id="home-sub-info">
+                        Hi, I’m Paul. I’m a 15 year old full-stack developer.
+                        I’ve been programming for more than 5 years and I create professional
+                        websites, apps, and games.
+                    </p>
+                </div>
+            </div>
+            <div id="technoligies" class="page">
+                <div id="tech-header" class="page-scale">
+                    <h1>Technologies</h1>
+                    <p>
+                        I create beautiful and highly functional products using a wide variety
+                        of programs, languages, and frameworks.
+                    </p>
+                </div>
+                <div id="tech-list-container">
+
+                    <!-- Template list item, the actual list items are loaded dynamically in index.js from /public/js/docs/technologies.json -->
+                    <div class="tech-list-item" hidden>
+                        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="">
+                        <h1>Typescript</h1>
+                        <p>JavaScript but better</p>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/public/js/index.js" type="module" async defer></script>
+</body>
+
+</html>
