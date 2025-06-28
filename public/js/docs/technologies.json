@@ -2,71 +2,76 @@
     {
         "name": "Node.js",
         "desc": "JavaScript for the backend",
-        "icon": "https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"
     },
     {
         "name": "Express",
         "desc": "Node.js web app framework",
-        "icon": "/public/assets/icons/express.png"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg"
     },
     {
         "name": "HTML & CSS",
         "desc": "Website structure and styling",
-        "icon": "https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"
     },
     {
         "name": "JavaScript",
         "desc": "Make websites interactive",
-        "icon": "https://ellipsiseducation.com/wp-content/uploads/2023/02/javascript-736400_1280.png"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"
     },
     {
         "name": "MySQL",
         "desc": "Database management system",
-        "icon": "/public/assets/icons/mysql.png"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"
     },
     {
         "name": "Git",
         "desc": "Version control",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"
+    },
+    {
+        "name": "Figma",
+        "desc": "Design tool",
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg"
     },
     {
         "name": "Java",
         "desc": "OOP programming",
-        "icon": "https://img.icons8.com/?size=512&id=13679&format=png"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"
     },
     {
         "name": "Kotlin",
         "desc": "Java but modern",
-        "icon": "/public/assets/icons/kotlin.png"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg"
     },
     {
         "name": "Android Studio",
         "desc": "Android app IDE",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg"
     },
     {
         "name": "Python",
         "desc": "General purpose programming",
-        "icon": "https://images.icon-icons.com/1508/PNG/512/python_104451.png"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"
     },
     {
         "name": "discord.py",
         "desc": "Discord bots with python",
-        "icon": "https://wasimaster.gallerycdn.vsassets.io/extensions/wasimaster/discord-py-snippets/1.7.0/1668862916012/Microsoft.VisualStudio.Services.Icons.Default"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg"
     },
     {
         "name": "Lua & Luau",
         "desc": "Scripting language",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Lua-Dark.svg"
     },
     {
         "name": "Roblox Studio",
         "desc": "Game engine w/ Luau",
-        "icon": "/public/assets/icons/roblox-studio.png"
+        "icon": "/public/assets/icons/robloxstudio.svg"
     },
     {
         "name": "Löve",
         "desc": "Lua game framework",
-        "icon": "https://love2d-community.github.io/love-api/assets/logo.png"
+        "icon": "/public/assets/icons/love2d.svg"
     }
 ]

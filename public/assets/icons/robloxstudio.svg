@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>Figma-Dark</title>
+	<defs>
+		<image width="256" height="256" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF85ODNfNDc5KSI+CjxwYXRoIGQ9Ik0yNTYgMEgwVjEwMS4zMkw5MC41ODk5IDEyNS41NjhMMTAyLjAxNiA4Mi45NjA0TDI1NiAxMjQuMjI4VjBaIiBmaWxsPSIjMDA5RkZGIi8+CjxwYXRoIGQ9Ik0yNTYgMTU0LjY4TDE2NS40MSAxMzAuMzk5TDE1My45ODQgMTczLjAwNUwwIDEzMS43MzlWMjU2SDI1NlYxNTQuNjhaIiBmaWxsPSIjMDA5RkZGIi8+CjwvZz4KPGRlZnM+CjxjbGlwUGF0aCBpZD0iY2xpcDBfOTgzXzQ3OSI+CjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiByeD0iNjAiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #242938 } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m60 0h136c33.1 0 60 26.9 60 60v136c0 33.1-26.9 60-60 60h-136c-33.1 0-60-26.9-60-60v-136c0-33.1 26.9-60 60-60z"/>
+	<use id="RobloxStudio" href="#img1" transform="matrix(.738,0,0,.738,33,33)"/>
+</svg>
