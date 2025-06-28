@@ -22,7 +22,7 @@
     {
         "name": "MySQL",
         "desc": "Database management system",
-        "icon": "https://www.codeconvert.ai/lang_logos/mysql.svg"
+        "icon": "/public/assets/icons/mysql.png"
     },
     {
         "name": "Git",
