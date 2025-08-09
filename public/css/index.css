@@ -240,6 +240,10 @@
     font-size: 15px;
 }
 
+#work {
+    margin-top: 300px;
+}
+
 @media screen and (max-width: 1350px){
     #content {
         width: 100vw;

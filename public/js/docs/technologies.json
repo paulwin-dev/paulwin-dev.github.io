@@ -2,52 +2,62 @@
     {
         "name": "Node.js",
         "desc": "JavaScript for the backend",
-        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg",
+        "tags": ["Web", "Backend"]
     },
     {
         "name": "Express",
         "desc": "Node.js web app framework",
-        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg",
+        "tag": ["Web", "Backend"]
     },
     {
         "name": "HTML & CSS",
         "desc": "Website structure and styling",
-        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg",
+        "tag": ["Web"]
     },
     {
         "name": "JavaScript",
         "desc": "Make websites interactive",
-        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg",
+        "tag": ["Web"]
     },
     {
         "name": "MySQL",
         "desc": "Database management system",
-        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg",
+        "tag": ["Web", "Backend"]
     },
     {
         "name": "Git",
         "desc": "Version control",
-        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg",
+        "tag": ["Other"]
     },
     {
         "name": "Figma",
         "desc": "Design tool",
-        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg",
+        "tag": ["Other"]
     },
     {
         "name": "Java",
         "desc": "OOP programming",
-        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg",
+        "tag": ["Backend", "Apps"]
     },
     {
         "name": "Kotlin",
         "desc": "Java but modern",
-        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg",
+        "tag": ["Apps"]
     },
     {
         "name": "Android Studio",
         "desc": "Android app IDE",
-        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg"
+        "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg",
+        "tag": ["Apps"]
     },
     {
         "name": "Python",
