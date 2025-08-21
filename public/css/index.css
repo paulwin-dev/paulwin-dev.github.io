@@ -17,10 +17,9 @@
 
 .page {
     width: 100%;
+    height: fit-content;
 
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
+    margin: auto;
 }
 
 #home {
@@ -154,8 +153,11 @@
     margin-top: 20px;
 }
 
-#technoligies {
+#technologies {
     margin-top: -100px;
+    height: fit-content;
+
+    
 }
 
 #tech-header h1 {
@@ -176,20 +178,18 @@
 
 #tech-list-container {
     width: 100%;
+    height: fit-content;
 
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
 }
 
 .tech-list-item {
-    float: left;
+    flex: 1 1 calc(25% - 15px);
+    min-width: 300px;
 
     height: 73px;
-    width: 23.845%;
-
-    margin-right: 15px;
-    margin-bottom: 15px;
 
     border-radius: 10px;
 
@@ -241,7 +241,7 @@
 }
 
 #work {
-    margin-top: 300px;
+
 }
 
 @media screen and (max-width: 1350px){
@@ -260,12 +260,6 @@
     }
 }
 
-@media screen and (max-width: 1260px) {
-    .tech-list-item {
-        width: 48%;
-    }
-}
-
 @media screen and (max-width: 1000px){
     .page-scale {
         width: 90%;
@@ -277,18 +271,6 @@
 
     #home-header-main h2 {
         font-size: 40px;
-    }
-}
-
-@media screen and (max-width: 765px) {
-    .tech-list-item {
-        width: 47%;
-    }
-}
-
-@media screen and (max-width: 640px) {
-    .tech-list-item {
-        width: 98%;
     }
 }
 
