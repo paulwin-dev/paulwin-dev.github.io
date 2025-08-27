@@ -32,7 +32,7 @@
     content: "";
     position: absolute;
     z-index: -1;
-    top: -80px;
+    top: -70vh;
     left: 0;
     right: 0;
     height: 90%;
@@ -122,9 +122,6 @@
 
     border-radius: 10px;
 
-    align-content: center;
-    text-align: center;
-
     margin-right: 24px;
 
     cursor: pointer;
@@ -134,6 +131,11 @@
 
 .home-contact-item img {
     height: 20px;
+    
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .home-contact-item:hover {
@@ -160,14 +162,14 @@
     
 }
 
-#tech-header h1 {
+.section-header h1 {
     font-size: 40px;
     font-weight: bold;
 
     margin-bottom: 0;
 }
 
-#tech-header p {
+.section-header p {
     font-size: 16px;
     font-weight: normal;
 
@@ -241,7 +243,61 @@
 }
 
 #work {
+    margin-top: 250px;
+}
 
+#work-list-container {
+    width: 100%;
+    height: fit-content;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+}
+
+.work-list-item {
+    flex: 1 1 calc(25% - 15px);
+    min-width: 600px;
+
+    height: 400px;
+
+    border-radius: 10px;
+
+    background-color: transparent;
+
+    outline-color: #746d6d00;
+    outline-style: solid;
+    outline-width: 1px;
+
+    overflow: hidden;
+
+    cursor: pointer;
+
+    transition: margin-top .3s;
+}
+
+.work-list-item img {
+    object-fit: cover;
+
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    filter: blur(2px) contrast(125%) brightness(100%);
+    mask: linear-gradient(to bottom, black, transparent);
+
+    transition: all .3s;
+}
+
+.work-list-item:hover {
+    margin-top: -10px;
+    
+    img {
+        zoom: 1.05;
+
+        filter: blur(2px) contrast(150%);
+    }
 }
 
 @media screen and (max-width: 1350px){
@@ -274,6 +330,12 @@
     }
 }
 
+@media screen and (max-width: 610px) {
+    .work-list-item {
+        min-width: 100%;
+    }
+}
+
 @media screen and (max-width: 480px){
     .page {
         width: 90%;
@@ -281,6 +343,10 @@
 
     .page-scale {
         width: 80%;
+    }
+
+    .work-list-item {
+        height: 275px;
     }
 
     #home-header-main h1 {
