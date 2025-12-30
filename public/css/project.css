@@ -1,0 +1,44 @@
+#page-container {
+    width: 45vw;
+    height: fit-content;
+
+    margin: auto;
+    margin-top: 100px;
+}
+
+#cover {
+    width: 100%;
+
+    border-radius: 10px;
+}
+
+#project-name {
+    margin: 0;
+
+    font-size: 48px;
+}
+
+.header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.project-extra-info-header {
+    font-size: 24px;
+    font-weight: lighter;
+
+    color: rgba(255, 255, 255, 0.781);
+}
+
+.project-description-header {
+    margin-bottom: 0;
+}
+
+.project-description-text {
+    font-size: 16px;
+    font-weight: lighter;
+
+    margin-top: 0;
+
+    color: rgba(255, 255, 255, 0.781);
+}

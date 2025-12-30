@@ -1,0 +1,31 @@
+@import url('https://rsms.me/inter/inter.css');
+
+:root {
+  --color-background: #121215;
+  --color-accent: #4086F0;
+  --color-text-sub: #8c8c8d;
+}
+
+html {
+  background-color: #121215;
+
+  overflow-x: hidden;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+hr {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+* {
+  font-family: "Inter", sans-serif;
+  color: white;
+}
+
+.bold {
+  font-weight: bold;
+}
