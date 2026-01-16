@@ -1,0 +1,119 @@
+[
+    {
+        "cover": "/public/assets/thumbs/rogue-west-banner.png",
+        "name": "Rogue West",
+        "description": "Open-world wild west RPG game.",
+        "link": "https://www.youtube.com/watch?v=7A9-KCCrizI",
+
+        "section": "roblox",
+        "tags": ["Roblox", "Active Project", "Personal"]
+    },
+    {
+        "cover": "https://tr.rbxcdn.com/180DAY-0ec8da1230c9ae8207728250d8fae47f/768/432/Image/Webp/noFilter",
+        "name": "Flame Trainer",
+        "description": "Da Hood style combat game.",
+        "link": "https://www.roblox.com/games/16772371910/Flame-Trainer",
+
+        "section": "roblox",
+        "tags": ["Roblox", "Past Project", "Commission"]
+    },
+    {
+        "cover": "/public/assets/thumbs/rgt-banner.png",
+        "name": "Realistic Gun Test",
+        "description": "Hyper-realistic, round-based FPS game.",
+        "link": "https://www.roblox.com/games/14482243012/Realistic-Gun-test",
+
+        "section": "roblox",
+        "tags": ["Roblox", "Professional", "Discontinued"]
+    },
+    {
+        "cover": "/public/assets/thumbs/plane-game-banner.png",
+        "name": "Fighter Jet Test",
+        "description": "Jet fighting game developed along with Realistic Gun Test.",
+        "link": "https://www.roblox.com/games/133521604713323/Fighter-Jet-Simulator",
+
+        "section": "roblox",
+        "tags": ["Roblox", "Professional", "Discontinued"]
+    },
+    {
+        "cover": "/public/assets/thumbs/vr-game-banner.png",
+        "name": "The Winterlands",
+        "description": "A winter-themed VR game about surviving and fighting in the wild.",
+        "link": "https://www.roblox.com/games/15498498927/Paulteus-VR-Collection",
+
+        "section": "roblox",
+        "tags": ["Roblox", "Personal", "Active Project"]
+    },
+    {
+        "cover": "/public/assets/thumbs/deep-in-debt-cover.png",
+        "name": "Deep In Debt",
+        "description": "Stud-style game about getting out of debt.",
+        "link": "https://www.roblox.com/games/15357459254/Deep-In-Debt",
+
+        "section": "roblox",
+        "tags": ["Roblox", "Personal"]
+    },
+    {
+        "cover": "/public/assets/thumbs/voxel-banner.png",
+        "name": "Voxel Terrain Game",
+        "description": "Minecraft-style terrain generation.",
+        "link": "https://www.roblox.com/games/131967044107743/Voxel-Terrain",
+
+        "section": "roblox",
+        "tags": ["Roblox", "Personal"]
+    },
+    {
+        "cover": "/public/assets/thumbs/portfolio-banner.png",
+        "name": "Personal Portfolio",
+        "description": "Personal portfolio programmed with vanilla HTML, JS, and CSS.",
+        "link": "https://paulw.is-a.dev/",
+
+        "section": "websites",
+        "tags": ["Website", "Personal"]
+    },
+        {
+        "cover": "/public/assets/thumbs/crownforge-banner.png",
+        "name": "Crownforge Games",
+        "description": "Website for Crownforge Games, a Roblox game studio.",
+        "link": "https://crownforgegames.github.io/",
+
+        "section": "websites",
+        "tags": ["Website"]
+    },
+    {
+        "cover": "/public/assets/thumbs/box-blast-banner.png",
+        "name": "Box Blast",
+        "description": "A Block Blast clone made with Love2D.",
+        "link": "https://github.com/paulwin-dev/BoxBlast",
+
+        "section": "other",
+        "tags": ["Other", "Personal"]
+    },
+        {
+        "cover": "/public/assets/thumbs/iso-cube-banner.png",
+        "name": "Iso-Cube",
+        "description": "An isometric, procedurally generated nature game made with JGame.",
+        "link": "https://github.com/paulwin-dev/Iso-Cube",
+
+        "section": "other",
+        "tags": ["Other", "Personal"]
+    },
+        {
+        "cover": "/public/assets/thumbs/air-taxi-banner.png",
+        "name": "Air Taxi",
+        "description": "Infinite flying parkour game made with JGame.",
+        "link": "https://github.com/paulwin-dev/JGame/tree/main/AirTaxi",
+
+        "section": "other",
+        "tags": ["Other", "Personal"]
+    },
+    {
+        "cover": "https://private-user-images.githubusercontent.com/150492054/510924748-220c30f0-2e0d-4470-bbde-c6e098b10319.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg1ODU0MjMsIm5iZiI6MTc2ODU4NTEyMywicGF0aCI6Ii8xNTA0OTIwNTQvNTEwOTI0NzQ4LTIyMGMzMGYwLTJlMGQtNDQ3MC1iYmRlLWM2ZTA5OGIxMDMxOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNlQxNzM4NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MDQwZGYzYWU1NDNlNmM2YWUyNzQ4ZmMyMGUzYzFmNTM3NDUzNTBiYTE1YjBkNjA3OWRjY2YwOWYwNGM1YzNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GAVLywuLKvCa7FtvGZfT22sPhda5l4KTK9hMdwBjRC8",
+        "name": "JGame",
+        "description": "A lightweight Java game engine and framework.",
+        "link": "https://github.com/paulwin-dev/JGame-1.0.0",
+
+        "section": "other",
+        "tags": ["Other", "Personal"]
+    }
+]

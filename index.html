@@ -26,9 +26,9 @@
                         <h2>Web, Mobile, and Game Development</h2>
                     </div>
                     <div id="home-contact-items">
-                        <a href="mailto:" target="_blank">
+                        <a href="https://www.roblox.com/users/1427306606/profile" target="_blank">
                             <div class="home-contact-item">
-                                <img src="/public/assets/icons/mail.png" alt="">
+                                <img src="/public/assets/icons/roblox.png" alt="">
                             </div>
                         </a>
 
@@ -38,9 +38,9 @@
                             </div>
                         </a>
 
-                        <a href="/public/assets/CV.pdf" target="_blank">
+                        <a href="https://discord.com/users/834489773573406770" target="_blank">
                             <div class="home-contact-item">
-                                <img src="/public/assets/icons/resume.png" alt="">
+                                <img src="/public/assets/icons/discord.png" alt="">
                             </div>
                         </a>
                     </div>
@@ -77,23 +77,30 @@
                         View my portfolio of professional and personal projects.
                     </p>
                 </div>
+                <div id="work-section-list-container">
+                    <img src="public/assets/icons/filter.svg" alt="">
+                    <div class="work-filter-item work-filter-item-selected" data-section="all">
+                        <h1>All</h1>
+                    </div>
+                    <div class="work-filter-item" data-section="roblox">
+                        <h1>Roblox</h1>
+                    </div>
+                    <div class="work-filter-item" data-section="websites">
+                        <h1>Websites</h1>
+                    </div>
+                    <div class="work-filter-item" data-section="other">
+                        <h1>Other</h1>
+                    </div>
+                </div>
                 <div id="work-list-container">
-                    <div class="work-list-item">
-                        <img src="/public/assets/thumbs/deep-in-debt-cover.png" alt="" class="work-list-item-cover">
-                        <h1 class="work-list-item-header">Realistic Gun Test</h1>
-                    </div>
-                    <div class="work-list-item">
-                        <img src="/public/assets/thumbs/deep-in-debt-cover.png" alt="" class="work-list-item-cover">
-                        <img src="/public/assets/icons/robloxstudio.svg" alt="" class="work-list-item-icon">
-                    </div>
-                    <div class="work-list-item">
-                        <img src="/public/assets/thumbs/deep-in-debt-cover.png" alt="" class="work-list-item-cover">
-                        <img src="/public/assets/icons/robloxstudio.svg" alt="" class="work-list-item-icon">
-                    </div>
-                    <div class="work-list-item">
-                        <img src="/public/assets/thumbs/deep-in-debt-cover.png" alt="" class="work-list-item-cover">
-                        <img src="/public/assets/icons/robloxstudio.svg" alt="" class="work-list-item-icon">
-                    </div>
+                    <template id="work-list-item-template">
+                        <div class="work-list-item">
+                            <img src="/public/assets/thumbs/deep-in-debt-cover.png" alt="" class="work-list-item-cover">
+                            <h1 class="work-list-item-header">Realistic Gun Test</h1>
+                            <div class="work-list-item-tags-container"></div>
+                            <p class="work-list-item-desc">Test description</p>
+                        </div>
+                    </template>
                 </div>
             </div>
         </div>
