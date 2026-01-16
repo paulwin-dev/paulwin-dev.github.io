@@ -108,7 +108,7 @@
         "tags": ["Other", "Personal"]
     },
     {
-        "cover": "https://private-user-images.githubusercontent.com/150492054/510924748-220c30f0-2e0d-4470-bbde-c6e098b10319.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg1ODU0MjMsIm5iZiI6MTc2ODU4NTEyMywicGF0aCI6Ii8xNTA0OTIwNTQvNTEwOTI0NzQ4LTIyMGMzMGYwLTJlMGQtNDQ3MC1iYmRlLWM2ZTA5OGIxMDMxOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExNlQxNzM4NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MDQwZGYzYWU1NDNlNmM2YWUyNzQ4ZmMyMGUzYzFmNTM3NDUzNTBiYTE1YjBkNjA3OWRjY2YwOWYwNGM1YzNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GAVLywuLKvCa7FtvGZfT22sPhda5l4KTK9hMdwBjRC8",
+        "cover": "/public/assets/thumbs/jgame-studio-banner.png",
         "name": "JGame",
         "description": "A lightweight Java game engine and framework.",
         "link": "https://github.com/paulwin-dev/JGame-1.0.0",
