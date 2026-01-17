@@ -27,22 +27,32 @@
 }
 
 #home::before {
-    width: 100%;
-
     content: "";
-    position: absolute;
+    position: fixed;
+    top: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+
+    width: 100vw;
+    height: 900px;
     z-index: -1;
-    top: -70vh;
-    left: 0;
-    right: 0;
-    height: 90%;
-    background-color: #ffffff00;
 
     background-size: 40px 40px;
-    background-image: radial-gradient(circle, #ffffff3a 1px, rgba(255, 255, 255, 0) 1px);
+    background-image: radial-gradient(
+        circle,
+        #ffffff3a 1px,
+        rgba(255, 255, 255, 0) 1px
+    );
 
-    mask-image: radial-gradient(circle, black 2%, rgba(0, 0, 0, 0) 60%);
+    mask-image: radial-gradient(
+        circle at 50% 50%,
+        black 0%,
+        rgba(0, 0, 0, 0) 70%
+    );
+
+    pointer-events: none;
 }
+
 
 #home-header-container {
     width: 100%;
