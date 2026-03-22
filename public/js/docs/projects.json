@@ -63,6 +63,15 @@
         "tags": ["Roblox", "Personal"]
     },
     {
+        "cover": "/public/assets/thumbs/holo-store-banner.png",
+        "name": "Studio Holo Store",
+        "description": "The store website for Studio Holo.",
+        "link": "https://holo-store.onrender.com/",
+
+        "section": "websites",
+        "tags": ["Website", "Professional"]
+    },
+    {
         "cover": "/public/assets/thumbs/portfolio-banner.png",
         "name": "Personal Portfolio",
         "description": "Personal portfolio programmed with vanilla HTML, JS, and CSS.",
@@ -71,7 +80,7 @@
         "section": "websites",
         "tags": ["Website", "Personal"]
     },
-        {
+    {
         "cover": "/public/assets/thumbs/crownforge-banner.png",
         "name": "Crownforge Games",
         "description": "Website for Crownforge Games, a Roblox game studio.",
